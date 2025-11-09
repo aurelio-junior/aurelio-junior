@@ -60,8 +60,8 @@ Me chamo Aurélio Junior, tenho 23 anos e sou natural de Minas Gerais. Atualment
 />
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
+    alt="C#"
+    title="C#" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" 
