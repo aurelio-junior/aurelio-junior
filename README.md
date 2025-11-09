@@ -17,11 +17,10 @@ Me chamo Aurélio Junior, tenho 23 anos e sou natural de Minas Gerais. Atualment
         <img 
             alt="Linkedin" 
             title="Me siga no Linkedin" 
-            src="https://custom-icon-badges.demolab.com/linkedin/followers/aurelio-junior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/linkedin/followers/aureliolsjunior?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-</p>
-
+</p>        
 ---
 
 ### 🤖 Linguagens e Tecnologias
